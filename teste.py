@@ -1,4 +1,2 @@
-n1 =  19 // 2
-print(n1)
-n2 = 19 % 2
-print(n2)
+for c in range(0, 10, 3):
+    print(c)
